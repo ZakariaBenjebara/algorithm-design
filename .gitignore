@@ -1,0 +1,9 @@
+target/
+.settings/
+*.iml
+.idea
+logs
+.project
+.classpath
+generated/
+web-services/web-services-server/generated/
