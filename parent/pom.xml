@@ -8,7 +8,6 @@
     <packaging>pom</packaging>
 
     <properties>
-        <!-- used for testing so far -->
         <scala.version>2.11.6</scala.version>
         <java.version>1.8</java.version>
 
